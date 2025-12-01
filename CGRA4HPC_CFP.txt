@@ -1,0 +1,68 @@
+The Fifth International Workshop on Coarse-Grained Reconfigurable Architectures for High-Performance Computing and AI (CGRA4HPCA).
+
+ -----------------------  GENERAL INFORMATION -------------------------
+ 
+CGRA4HPCA 2026 will be held in conjunction with IPDPS 2026 in New Orleans, USA, on May 25th.
+
+Where: New Orleans, USA
+
+When: May 25th
+ 
+Website: http://cgra4hpc.podobas.net/
+ 
+Submission Link: https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=CGRA4HPCWorkshopFullSubmission&site=ipdps2026
+ 
+Important Deadlines:
+  Paper submission: February 1th, 2026 
+  Paper notification: February 28th, 2026 
+  Camera-ready due: March 6th, 2026
+ 
+--------------------------  DESCRIPTION ------------------------------
+Coarse-grained reconfigurable arrays (CGRAs) are programmable logic devices that offer plasticity/reconfigurability, albeit at a coarse-grained (word-configurable) level in comparison to fine-grained FPGAs. 
+Such reconfigurability allows the silicon to be specialized towards a particular application in order to reduce data movement and improve performance and energy efficiency. Unlike their cousins, the Field-Programmable Gate Arrays (FPGAs),
+ CGRAs provide reconfigurable Arithmetic Logic Units (ALUs) and a highly specialized yet versatile data path. This ``coarsening'' of reconfiguration allows CGRAs to achieve a significant (custom ASIC-like) reduction in power consumption and
+ increase in operating frequency compared to FPGAs. At the same time, they remedy and overcome the expensive von Neumann (instruction-decoding) overhead that traditional general-purpose processors (CPUs) suffer from. In short, CGRAs
+ strike a seemingly perfect balance between the reconfigurability of FPGAs and the performance of CPUs, with power-consumption characteristics closer to custom ASICs.
+ 
+The International Workshop on Coarse-Grained Reconfigurable Architectures for High-Performance Computing and AI (CGRA4HPCA) aspires to provide a recurring forum for HPC experts and CGRA hardware researchers from academia or industry to come together and discuss state-of-the-art CGRA research for use in emerging HPC systems and AI.
+
+ -----------------------  TOPICS OF INTEREST -------------------------
+Topics of interest include (but are not limited to):
+
+- Novel high-performance CGRA architectures for HPC and AI, including energy-efficient architectures(incl. asynchronous/clockless CGRAs, powerconsumption optimizations, etc.)
+- Parallel programming language support for programming CGRA architectures (e.g., supporting OpenMP or CUDA/HIP for programming CGRA architectures)
+- Compilation strategies, algorithms, and methods for mapping computations and applications onto CGRAs
+- Smart middleware and runtime systems for support of CGRAs, including multi-CGRA systems for HPC and AI
+- Experience in porting scientific kernels and applications to state-of-the-art CGRAs (e.g., weather/climate codes, CFD, MD, etc.)
+- The use of CGRA frameworks (e.g., CGRA-ME and OpenCGRA) to generate and customize architectures
+- Software-programmable CGRAs (e.g., Xilinx ACAP Versal)
+- Processors with a tightly interconnected CGRA subsystem 
+- Machine Learning applications and case studies, performance and power-efficiency comparisons between traditional systems (CPUs/GPUs) and CGRAs
+- Combination of CGRAs and other emerging post-Moore models (e.g., neuromorphic systems) 
+- New emerging CGRA-like architectures for Generative AI
+- Case studies and evaluations of CGRAs for (Generative) AI
+- AI and Machine Learning applications and casestudies, performance and power-efficiency comparisons between traditional systems (CPUs/GPUs) and CGRAs
+
+New for this year:
+- Architectures, architectures, and use-cases of CGRAs to Edge- and Space-computing
+
+--------------------------  SUBMISSION ------------------------------
+We welcome authors to contribute full-length research papers subject to the topics of interest described above. Contributions should be unpublished and not for consideration in other venues. We will adopt a single-blind review process for all papers. Papers should not exceed eight (8) single-spaced pages, formatted in the double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style). Accepted papers will be included in the workshop proceedings, that will be distributed at the conference and are submitted for inclusion in the IEEE Xplore Digital Library after the conference.
+ 
+We also welcome presentations on new and emerging CGRA technologies from industry and startups. These will be presented at a special lightning session in the workshop. Please contact the workshop organizers (podobas@kth.se) if you are interested in participating in this event.
+ 
+ -----------------------  ORGANIZATION -------------------------
+ 
+ORGANIZERS:
+  Artur Podobas (KTH, Sweden)
+  Kentaro Sano (RIKEN, Japan)
+  Jason Anderson (University of Toronto, Canada)
+  Tomohiro Ueno (RIKEN, Japan)
+  
+Program Committee
+  Boma Anantasatya Adhi, RIKEN 
+  Cheng Tan, Google/ASU
+  Jens Domke, RIKEN CCS
+  Lingli Wang, Fudan Univ
+  Markus Weinhardt, HS Osnabruck
+  Takuya Kojima, Univ. of Tokyo
