@@ -8,7 +8,7 @@ Where: New Orleans, USA
 
 When: May 25th
  
-Website: http://cgra4hpc.podobas.net/
+Website: https://cgra4hpca.github.io/
  
 Submission Link: https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=CGRA4HPCWorkshopFullSubmission&site=ipdps2026
  
