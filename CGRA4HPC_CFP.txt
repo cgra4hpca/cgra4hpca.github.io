@@ -44,7 +44,9 @@ Topics of interest include (but are not limited to):
 - AI and Machine Learning applications and casestudies, performance and power-efficiency comparisons between traditional systems (CPUs/GPUs) and CGRAs
 
 New for this year:
-- Architectures, architectures, and use-cases of CGRAs to Edge- and Space-computing
+- Architectures, applications, and use-cases of CGRAs and AI to Edge computing, and
+- Architectures, applications, and use-cases of CGRAs and AI to compute in Space
+
 
 --------------------------  SUBMISSION ------------------------------
 We welcome authors to contribute full-length research papers subject to the topics of interest described above. Contributions should be unpublished and not for consideration in other venues. We will adopt a single-blind review process for all papers. Papers should not exceed eight (8) single-spaced pages, formatted in the double-column pages using 10-point size font on 8.5x11 inch pages (IEEE conference style). Accepted papers will be included in the workshop proceedings, that will be distributed at the conference and are submitted for inclusion in the IEEE Xplore Digital Library after the conference.
