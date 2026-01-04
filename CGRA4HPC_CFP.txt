@@ -64,6 +64,8 @@ ORGANIZERS:
 Program Committee
   Boma Anantasatya Adhi, RIKEN 
   Cheng Tan, Google/ASU
+  Christian Hochberger, TU Darmstadt
+  Georgi Gaydadjiev, TU Delft
   Jens Domke, RIKEN CCS
   Lingli Wang, Fudan Univ
   Markus Weinhardt, HS Osnabruck
