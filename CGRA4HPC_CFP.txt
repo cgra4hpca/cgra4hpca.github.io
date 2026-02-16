@@ -14,8 +14,8 @@ Submission Link: https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=CGR
  
 Important Deadlines:
   Paper submission: February 24th, 2026 (EXTENDED) 
-  Paper notification: February 28th, 2026 
-  Camera-ready due: March 6th, 2026
+  Paper notification: March 6th, 2026 
+  Camera-ready due: March 13th, 2026
  
 --------------------------  DESCRIPTION ------------------------------
 Coarse-grained reconfigurable arrays (CGRAs) are programmable logic devices that offer plasticity/reconfigurability, albeit at a coarse-grained (word-configurable) level in comparison to fine-grained FPGAs. 
