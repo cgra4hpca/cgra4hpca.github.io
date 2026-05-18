@@ -365,6 +365,10 @@
     <p>Effectively programming CGRA-like AI accelerators demands deep expertise in compute organization, memory hierarchy, and data movement—a fundamentally different discipline from conventional multi-threaded software development. To meet the pace of a rapidly evolving model landscape and to deliver cost-competitive, high-performance solutions, leading silicon providers have relied heavily on manual kernel authoring and hand-tuning. This approach, while effective, creates significant engineering bottlenecks: long debug cycles, opaque performance traces, and delayed customer delivery.</p>
     <p>The emergence of agentic coding frameworks opens a new frontier for offloading portions of the code-to-deployment pipeline to AI agents. However, naively treating these agents as drop-in compilers misses their true potential. The durable path forward is to ground agentic flows in the underlying mathematical structure of the problem: a formulation that generalizes across problem classes, minimizes token overhead, and produces correct-by-construction outputs.</p>
     <p>We present results from deploying this principled agentic approach across several domains: automatic generation of elementwise and fused reduction kernels along with NoC-optimized data movement operators, compilation of Hugging Face models with pattern-matched dispatch to hand-optimized kernels, sparse graph accelerator overlay, and EDA acceleration of some open-source tools. In each case, agentic flows matched or exceeded the performance of internal tooling — and in several instances produced viable solutions where none previously existed. We discuss the lessons learned, the boundaries of what is tractable, and the architectural principles that made these results possible.</p>
+
+    <h3>Kaz Yoshii — Argonne National Laboratory</h3>
+    <p><strong>From CGRA-Like AI Accelerators to Scientific Kernels: Lessons from Cross-Section Lookup</strong></p>
+    <p>Modern spatial computing systems, including FPGAs, AMD AIE, Groq, SambaNova, and Cerebras, provide an alternative to conventional CPU/GPU execution by exposing more explicit data movement and parallel spatial execution. This talk first gives a brief overview of these CGRA-like AI accelerators, then examines cross-section lookup in nuclear reactor simulation as a scientific kernel case study. I will discuss why this workload is challenging for CPUs and GPUs, share our experience porting it to Cerebras with observed performance and energy-efficiency gains, and compare that with an RTL-level design study that predicts further speedup but sacrifices programmability. The talk concludes by using this kernel to discuss possible CGRA directions for irregular, memory-sensitive HPC workloads.</p>
   </div>
 
   <!-- Workshop Program -->
@@ -386,7 +390,7 @@
       </tr>
       <tr>
         <td>2:30pm – 3:00pm</td>
-        <td><em>Keynote 2:</em> To be announced</td>
+        <td><em>Keynote 2:</em> From CGRA-Like AI Accelerators to Scientific Kernels: Lessons from Cross-Section Lookup<br><small style="color: var(--muted);">Kaz Yoshii, Argonne National Laboratory</small></td>
       </tr>
       <tr style="background: #f4f7fb; font-weight: 600;">
         <td>3:00pm – 3:15pm</td>
