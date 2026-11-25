@@ -1,21 +1,21 @@
-The Fifth International Workshop on Coarse-Grained Reconfigurable Architectures for High-Performance Computing and AI (CGRA4HPCA).
+The Sixth International Workshop on Coarse-Grained Reconfigurable Architectures for High-Performance Computing and AI (CGRA4HPCA).
 
  -----------------------  GENERAL INFORMATION -------------------------
  
-CGRA4HPCA 2026 will be held in conjunction with IPDPS 2026 in New Orleans, USA, on May 25th.
+CGRA4HPCA 2027 will be held in conjunction with IPDPS 2027 in Seattle, USA, on Wednesday, June 2nd, 2027.
 
-Where: New Orleans, USA
+Where: Seattle, USA
 
-When: May 25th
+When: Wednesday, June 2nd, 2027
  
 Website: https://cgra4hpca.github.io/
  
-Submission Link: https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=CGRA4HPCWorkshopFullSubmission&site=ipdps2026
+Submission Link: https://ssl.linklings.net/conferences/ipdps/?page=Submit&id=CGRA4HPCAWorkshopFullSubmission&site=ipdps2027
  
 Important Deadlines:
-  Paper submission: February 24th, 2026 (EXTENDED) 
-  Paper notification: March 6th, 2026 
-  Camera-ready due: March 13th, 2026
+  Paper submission: 25th January, 2027
+  Author notification: 22nd February, 2027
+  Camera ready: 6th March, 2027
  
 --------------------------  DESCRIPTION ------------------------------
 Coarse-grained reconfigurable arrays (CGRAs) are programmable logic devices that offer plasticity/reconfigurability, albeit at a coarse-grained (word-configurable) level in comparison to fine-grained FPGAs. 
@@ -62,11 +62,12 @@ ORGANIZERS:
   Tomohiro Ueno (RIKEN, Japan)
   
 Program Committee
-  Boma Anantasatya Adhi, RIKEN 
-  Cheng Tan, Google/ASU
+  Ahmed Hemani, KTH
   Christian Hochberger, TU Darmstadt
-  Georgi Gaydadjiev, TU Delft
-  Jens Domke, RIKEN CCS
-  Lingli Wang, Fudan Univ
-  Markus Weinhardt, HS Osnabruck
-  Takuya Kojima, Univ. of Tokyo
+  Jens Domke, RIKEN
+  Omar Ismail, Fujitsu
+  Andreas Koch, TU Darmstadt
+  Markus Weinhardt, Osnabrück University
+  Takuya Kojima, University of Tsukuba
+  Cheng Tan, Google/ASU
+  Boma Anantasatya Adhi, RIKEN
